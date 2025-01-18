@@ -1,2 +1,2 @@
 # Stochastic-Process-Simulation
-temperature changes during the day - random temperature oscillations
+This program simulates the stochastic process, more specifically **"random temperature oscillations"**. It generates a *plot* of this process and returns *first 10 values* of the generated process in specific point of time.
